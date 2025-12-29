@@ -1,0 +1,1 @@
+For integration tests, we will use the 'assert_cmd' and 'pretty_assertions' crates for testing echor. We will also use the 'predicates' crate, as it will make writing some of the tests easier and 'anyhow' for handling some errors.
